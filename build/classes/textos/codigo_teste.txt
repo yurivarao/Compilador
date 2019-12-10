@@ -1,0 +1,27 @@
+/*
+Autor : Yuri Varao
+Data : 20/10/2019
+*/
+
+private int idade@;
+public String Entr@da;
+
+int IDADE = 1dd;
+
+@@Testa a -1000 idade
+
+while (x <= 18) {
+    entrada := (Nao pode entrar);
+    idade ++;  
+}
+
+100,
+-5,54,9a9
+a2a@
+a2a@aaaaa
+a2a,aaa
+a2a@,
+++ 
+---
++,
+whileaaa
